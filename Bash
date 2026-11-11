@@ -1,3 +1,0 @@
-git add bot.py
-git commit -m "Fix truncated line in on_command_error"
-git push origin main
